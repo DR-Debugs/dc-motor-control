@@ -29,6 +29,6 @@ results/             # saved plots
 ```
 
 ## Notes & lessons learned
-   ## Notes & lessons learned
+
    A full from-scratch explanation of the maths, the code, and what broke is in
    [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md).

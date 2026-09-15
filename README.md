@@ -29,4 +29,6 @@ results/             # saved plots
 ```
 
 ## Notes & lessons learned
-*Write down what broke and how you fixed it as you go. This becomes your blog post.*
+   ## Notes & lessons learned
+   A full from-scratch explanation of the maths, the code, and what broke is in
+   [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md).

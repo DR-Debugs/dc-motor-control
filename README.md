@@ -3,12 +3,12 @@
 Speed control of a brushed DC motor, comparing a classical PID controller with an LQR state-feedback controller. First in simulation (Python), then ported to C++.
 
 ![PID step response](results/pid_step_response.png)
-
+![PID vs LQR response](results/pid_vs_lqr.png)
 ## Goals
 - [x] Model a DC motor (electrical + mechanical dynamics)
 - [x] Discrete PID with saturation and anti-windup
-- [ ] LQR controller with integral action
-- [ ] PID vs. LQR comparison (rise time, overshoot, control effort)
+- [x] LQR controller with integral action
+- [x] PID vs. LQR comparison (rise time, overshoot, control effort)
 - [ ] Add measurement noise and a load disturbance
 - [ ] Port controllers to C++
 
